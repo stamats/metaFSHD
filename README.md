@@ -14,4 +14,4 @@ button "Run App".
 
 Alternatively, you can run the app via [https://stamats.shinyapps.io/metafshd]
 
-<img src="https://github.com/stamats/metaFSHD/raw/main/metaFSHD.png" alt="metaFSHD" width="640"/>
+<img src="https://github.com/stamats/metaFSHD/raw/main/metaFSHD.png" alt="metaFSHD" width="720"/>
