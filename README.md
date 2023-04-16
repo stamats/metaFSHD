@@ -7,7 +7,7 @@ The repository includes the development version of the shiny app metaFSHD
 The app was developed to support a meta-analysis of original omics data
 about FSHD (Facioscapulohumeral Muscular Dystrophy).
 
-## Installation
+## Run metaFSHD App
 
 Download all the files in the R subfolder to a new folder on your computer and 
 open app.R in RStudio. Then click the "Run App" button.
