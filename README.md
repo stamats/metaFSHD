@@ -9,9 +9,9 @@ about FSHD (Facioscapulohumeral Muscular Dystrophy).
 
 ## Installation
 
-Download all files into a folder and open app.R in RStudio. Next, press
-button "Run App".
+Download all the files in the R subfolder to a new folder on your computer and 
+open app.R in RStudio. Then click the "Run App" button.
 
-Alternatively, you can run the app via [https://stamats.shinyapps.io/metafshd]
+Alternatively, you can run the app via https://stamats.shinyapps.io/metafshd
 
 <img src="https://github.com/stamats/metaFSHD/raw/main/metaFSHD.png" alt="metaFSHD" width="720"/>
