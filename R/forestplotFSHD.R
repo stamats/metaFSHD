@@ -134,7 +134,7 @@ forestplotFSHD <- function(resData, ensemblid, entrezid, gene.name, print.all = 
                      xaxis_lwd = 1.25,
                      refline_lwd = 1.25,
                      arrow_lwd = 1.5,
-                     footnote_cex = 0.75)
+                     footnote_cex = 0.8)
   TITEL <- "Random-Effects Meta-Analysis of"
   TITEL0 <- paste(strwrap(paste0("ENSEMBL-ID: ", resData$ENSEMBL[sel]), 62), collapse="\n")
   if(resData$gene_name[sel] != ""){
@@ -165,7 +165,7 @@ forestplotFSHD <- function(resData, ensemblid, entrezid, gene.name, print.all = 
                        is_summary = c(rep(FALSE, 16), TRUE),
                        ci_column = 4,
                        arrow_lab = c("FSHD down", "FSHD up"),
-                       footnote = "STD = standardized",
+                       footnote = "\n\n\n\n\nSTD = standardized\nSTD log2-FC = SMD with heteroscedastic variances (SMDH)",
                        theme = tm,
                        xlab = "STD log2-FC")
   gg <- insert_text(gg, text = "Mean (SD) on log2-scale",
