@@ -165,7 +165,7 @@ forestplotFSHD <- function(resData, ensemblid, entrezid, gene.name, print.all = 
                        is_summary = c(rep(FALSE, 16), TRUE),
                        ci_column = 4,
                        arrow_lab = c("FSHD down", "FSHD up"),
-                       footnote = "\n\n\n\n\nSTD = standardized\nSTD log2-FC = SMD with heteroscedastic variances (SMDH)",
+                       footnote = "\n\n\n\n\n\nSTD = standardized\nSTD log2-FC = SMD with heteroscedastic variances (SMDH)",
                        theme = tm,
                        xlab = "STD log2-FC")
   gg <- insert_text(gg, text = "Mean (SD) on log2-scale",
