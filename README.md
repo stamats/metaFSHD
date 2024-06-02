@@ -8,7 +8,7 @@ The app was developed to support our meta-analysis of original omics data
 about FSHD (Facioscapulohumeral Muscular Dystrophy) published open access 
 in 
 
-<img src="https://github.com/stamats/metaFSHD/raw/main/Communications_Biology_cover.png" alt="Nature Communication biology" width="120"/> 
+<img src="https://github.com/stamats/metaFSHD/raw/main/Communications_Biology_cover.png" alt="Nature Communication biology" width="240"/> 
 
 see
 
