@@ -7,7 +7,9 @@ The repository includes the development version of the shiny app metaFSHD
 The app was developed to support our meta-analysis of original omics data
 about FSHD (Facioscapulohumeral Muscular Dystrophy) published open access 
 in Nature Communication biology; see
+
 https://www.nature.com/articles/s42003-024-06325-z
+
 https://www.nature.com/articles/s42003-024-06325-z.pdf (pdf)
 
 
