@@ -4,8 +4,12 @@ The repository includes the development version of the shiny app metaFSHD
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ## Description
-The app was developed to support a meta-analysis of original omics data
-about FSHD (Facioscapulohumeral Muscular Dystrophy).
+The app was developed to support our meta-analysis of original omics data
+about FSHD (Facioscapulohumeral Muscular Dystrophy) published open access 
+in Nature Communication biology; see
+https://www.nature.com/articles/s42003-024-06325-z
+https://www.nature.com/articles/s42003-024-06325-z.pdf (pdf)
+
 
 ## Run metaFSHD App
 
