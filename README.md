@@ -6,7 +6,11 @@ The repository includes the development version of the shiny app metaFSHD
 ## Description
 The app was developed to support our meta-analysis of original omics data
 about FSHD (Facioscapulohumeral Muscular Dystrophy) published open access 
-in <img src="https://github.com/stamats/metaFSHD/raw/main/Communications_Biology_cover.png" alt="Nature Communication biology" width="120"/>; see
+in 
+
+<img src="https://github.com/stamats/metaFSHD/raw/main/Communications_Biology_cover.png" alt="Nature Communication biology" width="120"/> 
+
+see
 
 https://www.nature.com/articles/s42003-024-06325-z
 
